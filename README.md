@@ -73,7 +73,7 @@ If you encounter any issues or have questions, please create an issue in this re
 
 **TreePal** - *Grow your virtual companion* 🌱
 
-Made MountainMan Games
+Made by MountainMan Games
 
 Copyright 2025. All rights reserved.
 This software is provided for personal use only.
