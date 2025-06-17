@@ -16,12 +16,12 @@ Help test TreePal before public release! [Join Beta Test](https://play.google.co
 
 ## Features
 
-- **Virtual Tree Companion**: Choose from beautiful tree species (Oak, Maple, Willow)
+- **Virtual Tree Companion**: Choose from 3 tree species (Oak, Maple, Willow)
 - **Growth Simulation**: Watch your tree grow from seed to mighty tree over time
 - **Interactive Care**: Water your tree to keep it healthy and thriving
 - **Relaxing Audio**: Soothing nature sounds and tranquil background music
 - **Pixel Art Graphics**: Beautiful hand-crafted pixel art visuals
-- **Peaceful Gameplay**: No timers, no pressure - just pure relaxation
+- **Peaceful Gameplay**: No pressure - just pure relaxation
 
 ## Installation Instructions
 
