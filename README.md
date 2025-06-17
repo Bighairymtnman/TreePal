@@ -47,7 +47,7 @@ Help test TreePal before public release! [Join Beta Test](https://play.google.co
 
 ## Credits
 
-- **Audio**: Nancy_Sinclair via Freesound.org
+- **Audio**: Nancy_Sinclair via Freesound.org, Matio888 via Freesound.org, LolaMoore via Freesound.org
 - **Tree Pixel Art**: Blacis via itch.io
 - **Background Art**: CraftPix via OpenGameArt.org (OGA-BY 3.0)
 
