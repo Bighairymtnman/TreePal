@@ -69,6 +69,33 @@ If you encounter any issues or have questions, please create an issue in this re
 - Core growth and watering mechanics
 - Relaxing audio and pixel art graphics
 
+## Future Updates
+
+TreePal is actively being developed! Planned features include:
+
+### More Tree Species
+- Currently: Maple, Oak, Willow
+- Coming: Cherry Blossom, Birch, Redwood, Palm, and more!
+
+### Enhanced Audio
+- Additional relaxing background tracks
+- Seasonal nature sounds
+- Tree-specific audio themes
+
+### Weather System
+- Dynamic weather effects
+- Rain, snow, sunshine animations
+- Weather impacts on tree growth
+
+### Additional Features
+- Tree customization options
+- Growth milestones and achievements
+- Multiple tree gardens
+- Day/night cycle
+
+*Follow this repository for updates!*
+
+
 ---
 
 **TreePal** - *Grow your virtual companion* 🌱
