@@ -38,6 +38,10 @@ Help test TreePal before public release! [Join Beta Test](https://play.google.co
 <img src="./screenshots/1.jpg" alt="Tree Selection" width="300">
 <img src="./screenshots/3.jpg" alt="Tree Growing" width="300">
 <img src="./screenshots/4.jpg" alt="Mature Tree" width="300">
+<img src="./screenshots/5.jpg" alt="Mature Tree" width="300">
+<img src="./screenshots/6.jpg" alt="Mature Tree" width="300">
+<img src="./screenshots/7.jpg" alt="Mature Tree" width="300">
+<img src="./screenshots/8.jpg" alt="Mature Tree" width="300">
 
 ## System Requirements
 
@@ -68,6 +72,14 @@ If you encounter any issues or have questions, please create an issue in this re
 - 3 tree species available
 - Core growth and watering mechanics
 - Relaxing audio and pixel art graphics
+
+### v2.0.2
+New features:
+- 7 new tree types!
+- 3 save slots (grow multiple trees!)
+- New main menu
+- Credits screen
+- Minor bug fixes
 
 ## Future Updates
 
