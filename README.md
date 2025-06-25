@@ -39,7 +39,7 @@ Help test TreePal before public release! [Join Beta Test](https://play.google.co
 <img src="./screenshots/15.jpg" alt="Mature Tree" width="300">
 <img src="./screenshots/16.jpg" alt="Mature Tree" width="300">
 <img src="./screenshots/8.jpg" alt="Mature Tree" width="300">
-<img src="./screenshots/3.jpg" alt="Tree Growing" width="300">
+<img src="./screenshots/14.jpg" alt="Tree Growing" width="300">
 <img src="./screenshots/4.jpg" alt="Mature Tree" width="300">
 <img src="./screenshots/9.jpg" alt="Tree Growing" width="300">
 <img src="./screenshots/11.jpg" alt="Mature Tree" width="300">
