@@ -71,7 +71,7 @@ If you encounter any issues or have questions, please create an issue in this re
 ### v1.0.0
 - Initial release
 - 3 tree species available
-- Core growth and watering mechanics
+- Core growth and watering mechanics 
 - Relaxing audio and pixel art graphics
 
 ### v2.0.2
