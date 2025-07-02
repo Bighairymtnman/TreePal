@@ -35,13 +35,13 @@ Help test TreePal before public release! [Join Beta Test](https://play.google.co
 
 ## Screenshots
 
-<img src="./screenshots/13.jpg" alt="Tree Selection" width="300">
-<img src="./screenshots/15.jpg" alt="Mature Tree" width="300">
-<img src="./screenshots/16.jpg" alt="Mature Tree" width="300">
-<img src="./screenshots/8.jpg" alt="Mature Tree" width="300">
-<img src="./screenshots/14.jpg" alt="Tree Growing" width="300">
-<img src="./screenshots/12.jpg" alt="Mature Tree" width="300">
-<img src="./screenshots/9.jpg" alt="Tree Growing" width="300">
+<img src="./screenshots/22.jpg" alt="Tree Selection" width="300">
+<img src="./screenshots/23.jpg" alt="Mature Tree" width="300">
+<img src="./screenshots/17.jpg" alt="Mature Tree" width="300">
+<img src="./screenshots/19.jpg" alt="Mature Tree" width="300">
+<img src="./screenshots/18.jpg" alt="Tree Growing" width="300">
+<img src="./screenshots/20.jpg" alt="Mature Tree" width="300">
+<img src="./screenshots/21.jpg" alt="Tree Growing" width="300">
 <img src="./screenshots/11.jpg" alt="Mature Tree" width="300">
 
 ## System Requirements
