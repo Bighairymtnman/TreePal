@@ -16,7 +16,7 @@ Help test TreePal before public release! [Join Beta Test](https://play.google.co
 
 ## Features
 
-- **Virtual Tree Companion**: Choose from 3 tree species (Oak, Maple, Willow)
+- **Virtual Tree Companion**: Choose from 10 tree species
 - **Growth Simulation**: Watch your tree grow from seed to mighty tree over time
 - **Interactive Care**: Water your tree to keep it healthy and thriving
 - **Relaxing Audio**: Soothing nature sounds and tranquil background music
@@ -47,7 +47,7 @@ Help test TreePal before public release! [Join Beta Test](https://play.google.co
 ## System Requirements
 
 - **Android**: Version 6.0 (API level 23) or higher
-- **Storage**: 25MB available space
+- **Storage**: 180MB available space
 - **RAM**: 1GB minimum recommended
 
 ## Credits
