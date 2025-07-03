@@ -5,14 +5,9 @@ A relaxing virtual tree companion mobile game built with React Native and Expo. 
 
 ## Download
 
-### Android
-[Download Latest Release](https://github.com/Bighairymtnman/TreePal/releases/latest)
-
 ### Google Play Store
-[Get TreePal on Google Play](https://play.google.com/store/apps/details?id=com.mountainmangames.treepal) *(Coming Soon)*
+[Get TreePal on Google Play](https://play.google.com/store/apps/details?id=com.yourname.treepal) 
 
-### Beta Testing
-Help test TreePal before public release! [Join Beta Test](https://play.google.com/apps/internaltest/4701496029020449373)
 
 ## Features
 
