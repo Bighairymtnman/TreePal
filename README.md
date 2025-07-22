@@ -106,7 +106,7 @@ TreePal is actively being developed! Planned features include:
 
 ---
 
-**TreePal** - *Grow your virtual companion* 🌱
+**TreePal** - *Grow your virtual companion* 
 
 Made by MountainMan Games
 
